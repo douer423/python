@@ -1,1 +1,1 @@
-print()
+print('it\'s my first python file,hello,python world')
